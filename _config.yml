@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Code in Design
+tagline:             'Various web development geekery'
+description:         'Code in Design is the personal website of William Notowidagdo, where he blogs, infrequently, on various web development geekery'
+url:                 http://williamn.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              William Notowidagdo
+  url:               https://twitter.com/pluswn
+  email:             wnotowidagdo@gmail.com
+
+# Custom vars
+version:             1.0.0
